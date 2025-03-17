@@ -1,0 +1,1 @@
+Lista é uma estrutura ordenada onde cada elemento tem um índice.

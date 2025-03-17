@@ -1,0 +1,1 @@
+Pilha segue o princípio LIFO (Last In, First Out).

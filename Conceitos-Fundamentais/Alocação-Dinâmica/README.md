@@ -1,0 +1,1 @@
+A alocação dinâmica ocorre em tempo de execução. A memória pode ser ajustada conforme necessário.

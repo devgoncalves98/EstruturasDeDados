@@ -1,0 +1,1 @@
+Fila segue o princípio FIFO (First In, First Out).

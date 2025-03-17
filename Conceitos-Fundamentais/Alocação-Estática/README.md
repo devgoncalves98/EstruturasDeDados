@@ -1,0 +1,1 @@
+A alocação estática ocorre em tempo de compilação. A memória é definida antes da execução.
