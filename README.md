@@ -1,7 +1,6 @@
 ### EstruturasDeDados
 
 # Introdução
-## README.md
 **O que são Estruturas de Dados?**
 Estruturas de dados são formas organizadas de armazenar e manipular informações para torná-las eficientes. São essenciais na ciência da computação, pois impactam diretamente a performance dos algoritmos.
 
@@ -11,7 +10,6 @@ Estruturas de dados são formas organizadas de armazenar e manipular informaçõ
 - Uma rede social que armazena e exibe conexões de amigos.
 
 # Definição-Importância
-## README.md
 **Estruturas de dados lineares vs. não lineares**
 - Lineares: listas, filas e pilhas.
 - Não lineares: árvores e grafos.
@@ -42,7 +40,6 @@ print(f"Tempo com estrutura eficiente: {end - start:.5f}s")
 
 # Conceitos-Fundamentais
 ## Alocação-Estática
-### README.md
 A alocação estática ocorre em tempo de compilação. A memória é definida antes da execução.
 
 ### exemplo_estatica.py
@@ -52,7 +49,6 @@ print(arr)
 ```
 
 ## Alocação-Dinâmica
-### README.md
 A alocação dinâmica ocorre em tempo de execução. A memória pode ser ajustada conforme necessário.
 
 ### exemplo_dinamica.py
@@ -65,7 +61,6 @@ print(arr)
 
 # Estruturas-Lineares
 ## Listas
-### README.md
 Lista é uma estrutura ordenada onde cada elemento tem um índice.
 
 ### lista.py
@@ -76,7 +71,6 @@ print(lista)  # [1, 2, 3, 4]
 ```
 
 ## Filas
-### README.md
 Fila segue o princípio FIFO (First In, First Out).
 
 ### fila.py
@@ -89,7 +83,6 @@ print(fila.popleft())  # Remove o primeiro (1)
 ```
 
 ## Pilhas
-### README.md
 Pilha segue o princípio LIFO (Last In, First Out).
 
 ### pilha.py
@@ -101,7 +94,6 @@ print(pilha.pop())  # Remove o último (2)
 ```
 
 # Aplicação Prática
-## README.md
 **Problema:** Gerenciar pedidos em um restaurante (fila de atendimento).
 
 ### aplicacao.py
@@ -125,7 +117,5 @@ adicionar_pedido("Hambúrguer")
 atender_pedido()
 atender_pedido()
 ```
-
 ---
-
-Isso cobre todas as instruções da atividade! Agora é só subir para o GitHub. 🚀
+**Com isso temos todas os problemas abordados e resolvidos aqui dentro do Read.me para ser mais dinamico e facilitar a aprendizagem**
