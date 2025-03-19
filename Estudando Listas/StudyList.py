@@ -1,4 +1,5 @@
 #Teste 1
+#Nesse teste estudo as listas e suas aplicações com numeros
 
 # Criando uma lista
 numeros = [10, 20, 30, 40]
@@ -29,6 +30,7 @@ print(numeros)  # Saída: [10, 30, 40, 50]
 
 
 ##Teste 2
+# Neste teste estudo as listas e suas aplicações com nomes e uma forma diferente de remover termos de acordo com o indice
 
 #Criação da lista com nomes
 pessoas = ['pedro', 'paulo' , 'abdiel', 'marcos', 'jonas']
@@ -53,3 +55,11 @@ del pessoas[3]
 
 #Exibição da lista como esta no momento
 print(pessoas)
+
+#Outra maneira de fazer isso e armazenar os nomes removidos é:
+removidos = pessoas.pop(3)
+
+#Exibição da lista como esta no momento
+print(pessoas)
+#Exbição de uma lista com os nomes removidos em pop
+print(removidos)

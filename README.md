@@ -7,14 +7,18 @@ Este repositório contém exemplos práticos e explicações sobre diferentes es
 
 ### 📂 Organização do Repositório
 
+|📁 **Estudando Listas** - Contemvaroios codigos fontes para estudo de listas em Estrutura de dados.
 
-📁 **Introdução** - Explicação sobre estruturas de dados e exemplos de aplicação.
 
-📁 **Definição-Importância** - Comparação de desempenho com e sem estruturas de dados.
+|📁 **Resumo Geral** - Contem as seguintes pastas.
 
-📁 **Conceitos-Fundamentais** - Explicação sobre alocação estática e dinâmica de memória.
+│ ├── 📁 **Introdução** - Explicação sobre estruturas de dados e exemplos de aplicação.
 
-📁 **Estruturas-Lineares** - Implementação de listas, filas e pilhas.
+│ ├──📁 **Definição-Importância** - Comparação de desempenho com e sem estruturas de dados.
 
-📁 **Aplicação Prática** - Resolução de um problema real utilizando estruturas de dados.
+│ ├──📁 **Conceitos-Fundamentais** - Explicação sobre alocação estática e dinâmica de memória.
+
+│ ├──📁 **Estruturas-Lineares** - Implementação de listas, filas e pilhas.
+
+│ ├──📁 **Aplicação Prática** - Resolução de um problema real utilizando estruturas de dados.
 
