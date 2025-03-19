@@ -7,7 +7,7 @@ Este repositório contém exemplos práticos e explicações sobre diferentes es
 
 ### 📂 Organização do Repositório
 
-|📁 **Estudando Listas** - Contemvaroios codigos fontes para estudo de listas em Estrutura de dados.
+|📁 **Estudando Listas** - Contem varios codigos fontes para estudo de listas em Estrutura de dados.
 
 
 |📁 **Resumo Geral** - Contem as seguintes pastas.
